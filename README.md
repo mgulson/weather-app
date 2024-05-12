@@ -33,4 +33,9 @@ $ npm run test
 
 You must create an api key to have this application work
 
-Env
+[sign up](https://home.openweathermap.org/register)
+Environmental variables
+
+`cp .env.template .env.local`
+
+OPEN_WEATHER_API_KEY="Your open weather api key"
